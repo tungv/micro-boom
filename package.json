@@ -7,7 +7,7 @@
   "author": "Oliver Nordbjerg <hi@notbjerg.me>",
   "license": "MIT",
   "dependencies": {
-    "boom": "^4.2.0"
+    "boom": "^4.3.0"
   },
   "peerDependencies": {
     "micro": "*"
